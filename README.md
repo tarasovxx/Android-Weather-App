@@ -36,5 +36,5 @@ For more information about the OpenWeatherMap API, visit their [official website
 
 
 Example:
-![screen1](screen1.png)
-![screen2](screen2.png)
+![screen1](screen/screen1.png)
+![screen2](screen/screen2.png)
