@@ -4,4 +4,5 @@
     <string name="hint_user_field">Введите город</string>
     <string name="main_btn">Узнай погоду</string>
     <string name="no_user_input">Введите текст</string>
+    <string name="api_key">6769231485d879e36f3def9d14114ad9</string>
 </resources>
