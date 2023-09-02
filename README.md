@@ -35,6 +35,6 @@ Please note that an active internet connection is required to fetch weather data
 For more information about the OpenWeatherMap API, visit their [official website](https://openweathermap.org/api).
 
 
-Example:
+
 ![screen1](screen/screen1.png)
 ![screen2](screen/screen2.png)
